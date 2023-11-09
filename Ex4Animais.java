@@ -42,7 +42,9 @@ public class Ex4Animais {
 			}
 		  }	
 	    } else {
-	    	
+			
+		// Se for invertebrado	
+			
 	    	System.out.println("\nInseto ou anelídeo?");
 	    	String classe = leia.nextLine();
 			
