@@ -9,38 +9,6 @@ O if/else se usa em parâmetros que variam entre um e outro, já o "switch" com 
 ![ex01](https://github.com/BiaAkemi/Java-Lacos-Condicionais/assets/145511213/cbbe6e4c-13e2-4f9b-b3f9-97c5899e1e99)
 Faça um algoritmo em Java que leia 3 valores inteiros A, B e C e imprima na tela se a soma de A + B é maior, menor ou igual a C.<br>
 
-**Entrada 1**<br> 
-Digite o número A: 2<br>
-Digite o número B: 4<br>
-Digite o número C: 5<br>
-<br>
-**Saída 1:**<br>
-4 + 2 = 6 > 5<br>
-A Soma de A + B é Maior do que C<br>
-
-----------------
-
-**Entrada 2**<br>
-Digite o número A: 2<br>
-Digite o número B: 2<br>
-Digite o número C: 5<br>
-<br>
-**Saída 2:**<br>
-2 + 2 = 4 < 5<br>
-A Soma de A + B é Menor do que C<br>
-
-----------------
-
-**Entrada 3:**<br>
-Digite o número A: 2<br>
-Digite o número B: 2<br>
-Digite o número C: 4<br>
-<br>
-**Saída 3:**<br>
-2 + 2 = 4 = 4<br>
-A Soma de A + B é Igual a C<br>
-
-----------------
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 - Laço Condicional IF
 
@@ -49,26 +17,8 @@ Escreva um algoritmo em Java, que leia 3 palavras (String), que definem as carac
 
 ![Mamífero](https://github.com/BiaAkemi/Java-Lacos-Condicionais/assets/145511213/a130e73f-70c8-46ff-80dd-901e88a2b652)
 
-Em seguida, mostre na tela qual dos animais foi escolhido, através das três palavras fornecidas: 
-
-**Entrada 1**<br>
-vertebrado<br>
-mamífero<br>
-onívoro<br>
+Em seguida, mostre na tela qual dos animais foi escolhido, através das três palavras fornecidas.
 <br>
-**Saída 1**<br>
-Homem
-
-----------------
-
-**Entrada 2**<br>
-invertebrado<br>
-inseto<br>
-herbívoro<br>
-<br>
-**Saída 2**<br>
-Lagarta<br>
-
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 - Laço Condicional If.
 
@@ -89,61 +39,9 @@ Com base na tabela abaixo, escreva um algoritmo em Java, que simule uma Calculad
 
 ![tabela2](https://github.com/BiaAkemi/Java-Lacos-Condicionais/assets/145511213/83bd2cbb-aac6-4042-a7e7-e704037873a2)
 
-**Entrada 1** <br>
-Digite o 1º número: 10.0<br>
-Digite o 2º número: 5.0<br>
-Operação: 1<br>
 <br>
-**Saída 1** <br>
-10.0 + 5.0 = 15.0<br>
-
-----------------
-
-**Entrada 2**<br>
-Digite o 1º número: 10.0<br>
-Digite o 2º número: 5.0<br>
-Operação: 2<br>
-<br>
-**Saída 2**<br>
-10.0 - 5.0 = 5.0<br>
-<br>
-
-----------------
-**Entrada 3**<br>
-Digite o 1º número: 10.0<br>
-Digite o 2º número: 5.0<br>
-Operação: 3<br>
-<br>
-**Saída 3**<br>
-10.0 * 5.0 = 50.0<br>
-<br>
-
-----------------
-
-**Entrada 4**<br>
-Digite o 1º número: 10.0<br>
-Digite o 2º número: 5.0<br>
-Operação: 4<br>
-<br>
-**Saída 4**<br>
-10.0 / 5.0 = 2.0<br>
-
-
-----------------
-
-**Entrada 5**<br>
-Digite o 1º número: 10.0<br>
-Digite o 2º número: 5.0<br>
-Operação: 10<br>
-<br>
-**Saída 5**<br>
-Operação Inválida!
-
-----------------
-
-<br>
-Na construção do Algoritmo, utilize os seguintes conteúdos:
-<br>- Laço Condicional Switch
+Na construção do Algoritmo, utilize os seguintes conteúdos: <br>
+- Laço Condicional Switch
 
 
 
