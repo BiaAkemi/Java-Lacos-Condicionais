@@ -88,7 +88,6 @@ Na construção do Algoritmo, utilize os seguintes conteúdos:
 Com base na tabela abaixo, escreva um algoritmo em Java, que simule uma Calculadora simples. O programa deverá ler dois números float: numero1 e numero2, e na sequência ler o Código da operação matemática (número inteiro de 1 a 4). A seguir, mostre na tela o resultado da operação entre os 2 números. Caso a operação seja diferente do intervalo 1 a 4, mostre a mensagem Operação Inválida!
 
 ![tabela2](https://github.com/BiaAkemi/Java-Lacos-Condicionais/assets/145511213/83bd2cbb-aac6-4042-a7e7-e704037873a2)
-c8-46ff-80dd-901e88a2b652)
 
 **Entrada 1** <br>
 Digite o 1º número: 10.0<br>
